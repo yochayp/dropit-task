@@ -1,0 +1,48 @@
+[
+    {
+        "startTime": "2022-07-04T18:25:00.511Z",
+        "endTime":"2022-07-04T19:25:00.511Z",
+        "supportedAddresses": [52001, 52002, 52003]
+    },
+    {
+        "startTime": "2021-11-29T12:25:00.511Z",
+        "endTime":"2022-07-04T12:25:00.511Z",
+        "supportedAddresses": [52001, 52002, 52003]
+    },
+    {
+        "startTime": "2022-07-04T13:25:00.511Z",
+        "endTime":"2022-07-04T13:25:00.511Z",
+        "supportedAddresses": [52001, 52002, 52003]
+    },
+    {
+        "startTime": "2022-07-04T13:25:00.511Z",
+        "endTime":"2022-07-04T13:25:00.511Z",
+        "supportedAddresses": [52001, 52002, 52003]
+    },
+    {
+        "startTime": "2022-07-04T13:25:00.511Z",
+        "endTime":"2022-07-04T13:25:00.511Z",
+        "supportedAddresses": [52001, 52002, 52003]
+    },
+    {
+        "startTime": "2022-07-04T13:25:00.511Z",
+        "endTime":"2022-07-04T13:25:00.511Z",
+        "supportedAddresses": [51100, 51101]
+    },
+    {
+        "startTime": "2022-07-04T20:25:00.511Z",
+        "endTime":"2022-07-04T20:25:00.511Z",
+        "supportedAddresses": [ 51101]
+    },    
+    {
+        "startTime": "2022-07-04T13:25:00.511Z",
+        "endTime":"2022-07-04T13:25:00.511Z",
+        "supportedAddresses": [51100, 51101]
+    },
+    {
+        "startTime": "2022-07-04T11:25:00.511Z",
+        "endTime":"2022-07-04T11:25:00.511Z",
+        "supportedAddresses": [51100, 51101]
+    }
+]
+    
